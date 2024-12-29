@@ -1,0 +1,295 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "FirstScraper",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Alsen/scrape": {
+      "get": {
+        "tags": [
+          "Alsen"
+        ],
+        "parameters": [
+          {
+            "name": "url",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "default": "https://www.alsen.pl/canon-pixma-g3410-2315c009aa"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Auchan/scrape": {
+      "get": {
+        "tags": [
+          "Auchan"
+        ],
+        "parameters": [
+          {
+            "name": "url",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "default": "https://www.auchan.fr/lego-lego-technic-42171-mercedes-amg-f1-w14-e-performance-replique-decoration-de-bureau/pr-C1784561"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Austin/scrape": {
+      "get": {
+        "tags": [
+          "Austin"
+        ],
+        "parameters": [
+          {
+            "name": "url",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "default": "https://www.austin.net.au/products/msi-modern-15-b13m-407au-business-productivity-laptop-15-6-fhd-intel-raptor-lake-i5-1335u-onboard-ddr4-16gb-1tb-ssd-windows11-home-intel-iris-xe-graphics"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Datacomp/scrape": {
+      "get": {
+        "tags": [
+          "Datacomp"
+        ],
+        "parameters": [
+          {
+            "name": "url",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "default": "https://datacomp.sk/dell-poweredge-t350-rw9j2_d482121.html"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/GearForMusic/scrape": {
+      "get": {
+        "tags": [
+          "GearForMusic"
+        ],
+        "parameters": [
+          {
+            "name": "url",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "default": "https://www.gear4music.com/Keyboards-and-Pianos/Roland-GOKEYS-3-Music-Creation-Keyboard-Dark-Red/6AB4"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Hiq/scrape": {
+      "get": {
+        "tags": [
+          "Hiq"
+        ],
+        "parameters": [
+          {
+            "name": "url",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "default": "https://hiq24.de/shop/hardware/festplatten-ssds/ssd-festplatte/m.2/93641/samsung-ssd-1tb-7.4/6.9g-990-pro-m.2-sam-nvme"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/MegaBuy/scrape": {
+      "get": {
+        "tags": [
+          "MegaBuy"
+        ],
+        "parameters": [
+          {
+            "name": "url",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "default": "https://www.megabuy.com.au/dell-refurbished-p2422h-238-ips-fhd-monitor-1920x1080-displayport-hdmi-vga-height-tilt-p1322087.html"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/NFM/scrape": {
+      "get": {
+        "tags": [
+          "NFM"
+        ],
+        "parameters": [
+          {
+            "name": "url",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "default": "https://www.nfm.com/samsung-85-class-du7200-4k-crystal-uhd-with-hdr-in-titan-gray--smart-tv-66012139/66012139.html"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Schafer/scrape": {
+      "get": {
+        "tags": [
+          "Schafer"
+        ],
+        "parameters": [
+          {
+            "name": "url",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "default": "https://www.schaefer-shop.de/p/ordner-gruener-balken-din-a4-rueckenbreite-80-mm?selectedItem=183980"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Skycomp/scrape": {
+      "get": {
+        "tags": [
+          "Skycomp"
+        ],
+        "parameters": [
+          {
+            "name": "url",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "default": "https://www.skycomp.com.au/catalog/product/view/id/1009896/s/hp-eliteone-870-g9-aio-pc-27-touch-i7-12700-16gb-512gb-wifi-bt-w10p-1009896/"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/WeatherForecast": {
+      "get": {
+        "tags": [
+          "WeatherForecast"
+        ],
+        "operationId": "GetWeatherForecast",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "WeatherForecast": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "type": "string",
+            "format": "date"
+          },
+          "temperatureC": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "temperatureF": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "summary": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

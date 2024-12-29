@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|c:\\users\\lenovo\\documents\\github\\bd_demo\\firstscraper\\controllers\\alsencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|solutionrelative:firstscraper\\controllers\\alsencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|c:\\users\\lenovo\\documents\\github\\bd_demo\\firstscraper\\controllers\\gearformusiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|solutionrelative:firstscraper\\controllers\\gearformusiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|c:\\users\\lenovo\\documents\\github\\bd_demo\\firstscraper\\models\\productdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|solutionrelative:firstscraper\\models\\productdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|c:\\users\\lenovo\\documents\\github\\bd_demo\\firstscraper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|solutionrelative:firstscraper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|c:\\users\\lenovo\\documents\\github\\bd_demo\\firstscraper\\firstscraper.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|solutionrelative:firstscraper\\firstscraper.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|c:\\users\\lenovo\\documents\\github\\bd_demo\\firstscraper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|solutionrelative:firstscraper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|c:\\users\\lenovo\\documents\\github\\bd_demo\\firstscraper\\controllers\\nfmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|solutionrelative:firstscraper\\controllers\\nfmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|c:\\users\\lenovo\\documents\\github\\bd_demo\\firstscraper\\controllers\\skycompcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|solutionrelative:firstscraper\\controllers\\skycompcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|c:\\users\\lenovo\\documents\\github\\bd_demo\\firstscraper\\controllers\\schafercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|solutionrelative:firstscraper\\controllers\\schafercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|c:\\users\\lenovo\\documents\\github\\bd_demo\\firstscraper\\controllers\\megabuycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|solutionrelative:firstscraper\\controllers\\megabuycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|c:\\users\\lenovo\\documents\\github\\bd_demo\\firstscraper\\controllers\\hiqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|solutionrelative:firstscraper\\controllers\\hiqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|c:\\users\\lenovo\\documents\\github\\bd_demo\\firstscraper\\controllers\\datacompcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|solutionrelative:firstscraper\\controllers\\datacompcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|c:\\users\\lenovo\\documents\\github\\bd_demo\\firstscraper\\controllers\\austincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|solutionrelative:firstscraper\\controllers\\austincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|c:\\users\\lenovo\\documents\\github\\bd_demo\\firstscraper\\controllers\\auchancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870013B9-611D-44A9-85C2-5C17FA022BA1}|FirstScraper\\FirstScraper.csproj|solutionrelative:firstscraper\\controllers\\auchancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FirstScraper.http",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\FirstScraper.http",
+              "RelativeDocumentMoniker": "FirstScraper\\FirstScraper.http",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\FirstScraper.http",
+              "RelativeToolTip": "FirstScraper\\FirstScraper.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-27T15:32:04.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\Program.cs",
+              "RelativeDocumentMoniker": "FirstScraper\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\Program.cs",
+              "RelativeToolTip": "FirstScraper\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:31:08.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatacompController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\Controllers\\DatacompController.cs",
+              "RelativeDocumentMoniker": "FirstScraper\\Controllers\\DatacompController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\Controllers\\DatacompController.cs",
+              "RelativeToolTip": "FirstScraper\\Controllers\\DatacompController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:26:41.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\Models\\ProductDetails.cs",
+              "RelativeDocumentMoniker": "FirstScraper\\Models\\ProductDetails.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\Models\\ProductDetails.cs",
+              "RelativeToolTip": "FirstScraper\\Models\\ProductDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T05:47:39.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GearForMusicController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\Controllers\\GearForMusicController.cs",
+              "RelativeDocumentMoniker": "FirstScraper\\Controllers\\GearForMusicController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\Controllers\\GearForMusicController.cs",
+              "RelativeToolTip": "FirstScraper\\Controllers\\GearForMusicController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAhwFgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:21:34.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlsenController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\Controllers\\AlsenController.cs",
+              "RelativeDocumentMoniker": "FirstScraper\\Controllers\\AlsenController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\Controllers\\AlsenController.cs",
+              "RelativeToolTip": "FirstScraper\\Controllers\\AlsenController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAhwEcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:06:05.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\appsettings.json",
+              "RelativeDocumentMoniker": "FirstScraper\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\appsettings.json",
+              "RelativeToolTip": "FirstScraper\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T15:32:13.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MegaBuyController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\Controllers\\MegaBuyController.cs",
+              "RelativeDocumentMoniker": "FirstScraper\\Controllers\\MegaBuyController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\Controllers\\MegaBuyController.cs",
+              "RelativeToolTip": "FirstScraper\\Controllers\\MegaBuyController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAKIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T05:44:44.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HiqController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\Controllers\\HiqController.cs",
+              "RelativeDocumentMoniker": "FirstScraper\\Controllers\\HiqController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\Controllers\\HiqController.cs",
+              "RelativeToolTip": "FirstScraper\\Controllers\\HiqController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI8AAACZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:21:55.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NFMController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\Controllers\\NFMController.cs",
+              "RelativeDocumentMoniker": "FirstScraper\\Controllers\\NFMController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\Controllers\\NFMController.cs",
+              "RelativeToolTip": "FirstScraper\\Controllers\\NFMController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:26:57.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SchaferController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\Controllers\\SchaferController.cs",
+              "RelativeDocumentMoniker": "FirstScraper\\Controllers\\SchaferController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\Controllers\\SchaferController.cs",
+              "RelativeToolTip": "FirstScraper\\Controllers\\SchaferController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:47:29.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SkycompController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\Controllers\\SkycompController.cs",
+              "RelativeDocumentMoniker": "FirstScraper\\Controllers\\SkycompController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\Controllers\\SkycompController.cs",
+              "RelativeToolTip": "FirstScraper\\Controllers\\SkycompController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:02:16.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AustinController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\Controllers\\AustinController.cs",
+              "RelativeDocumentMoniker": "FirstScraper\\Controllers\\AustinController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\Controllers\\AustinController.cs",
+              "RelativeToolTip": "FirstScraper\\Controllers\\AustinController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAMIAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:16:55.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuchanController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\Controllers\\AuchanController.cs",
+              "RelativeDocumentMoniker": "FirstScraper\\Controllers\\AuchanController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\bd_demo\\FirstScraper\\Controllers\\AuchanController.cs",
+              "RelativeToolTip": "FirstScraper\\Controllers\\AuchanController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:36:16.821Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

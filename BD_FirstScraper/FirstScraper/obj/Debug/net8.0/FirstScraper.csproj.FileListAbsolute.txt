@@ -1,0 +1,110 @@
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\bin\Debug\net8.0\appsettings.json
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\bin\Debug\net8.0\FirstScraper.exe
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\bin\Debug\net8.0\FirstScraper.deps.json
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\bin\Debug\net8.0\FirstScraper.runtimeconfig.json
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\bin\Debug\net8.0\FirstScraper.dll
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\bin\Debug\net8.0\FirstScraper.pdb
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\obj\Debug\net8.0\FirstScraper.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\obj\Debug\net8.0\FirstScraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\obj\Debug\net8.0\FirstScraper.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\obj\Debug\net8.0\FirstScraper.AssemblyInfo.cs
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\obj\Debug\net8.0\FirstScraper.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\obj\Debug\net8.0\FirstScraper.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\obj\Debug\net8.0\FirstScraper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\obj\Debug\net8.0\staticwebassets\msbuild.FirstScraper.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\obj\Debug\net8.0\staticwebassets\msbuild.build.FirstScraper.props
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FirstScraper.props
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FirstScraper.props
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\obj\Debug\net8.0\scopedcss\bundle\FirstScraper.styles.css
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\obj\Debug\net8.0\FirstScr.824369CD.Up2Date
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\obj\Debug\net8.0\FirstScraper.dll
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\obj\Debug\net8.0\refint\FirstScraper.dll
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\obj\Debug\net8.0\FirstScraper.pdb
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\obj\Debug\net8.0\FirstScraper.genruntimeconfig.cache
+C:\Users\hp\source\repos\FirstScraper\FirstScraper\obj\Debug\net8.0\ref\FirstScraper.dll
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\bin\Debug\net8.0\appsettings.json
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\bin\Debug\net8.0\FirstScraper.staticwebassets.endpoints.json
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\bin\Debug\net8.0\FirstScraper.exe
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\bin\Debug\net8.0\FirstScraper.deps.json
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\bin\Debug\net8.0\FirstScraper.runtimeconfig.json
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\bin\Debug\net8.0\FirstScraper.dll
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\bin\Debug\net8.0\FirstScraper.pdb
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\obj\Debug\net8.0\FirstScraper.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\obj\Debug\net8.0\FirstScraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\obj\Debug\net8.0\FirstScraper.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\obj\Debug\net8.0\FirstScraper.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\obj\Debug\net8.0\FirstScraper.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\obj\Debug\net8.0\FirstScraper.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\obj\Debug\net8.0\FirstScraper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\obj\Debug\net8.0\scopedcss\bundle\FirstScraper.styles.css
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\obj\Debug\net8.0\staticwebassets\msbuild.FirstScraper.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\obj\Debug\net8.0\staticwebassets\msbuild.FirstScraper.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\obj\Debug\net8.0\staticwebassets\msbuild.build.FirstScraper.props
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FirstScraper.props
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FirstScraper.props
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\obj\Debug\net8.0\FirstScr.824369CD.Up2Date
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\obj\Debug\net8.0\FirstScraper.dll
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\obj\Debug\net8.0\refint\FirstScraper.dll
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\obj\Debug\net8.0\FirstScraper.pdb
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\obj\Debug\net8.0\FirstScraper.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\BluParrot\BrightData FirstProject\FirstScraper\FirstScraper\FirstScraper\obj\Debug\net8.0\ref\FirstScraper.dll
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\bin\Debug\net8.0\appsettings.json
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\bin\Debug\net8.0\FirstScraper.staticwebassets.endpoints.json
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\bin\Debug\net8.0\FirstScraper.exe
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\bin\Debug\net8.0\FirstScraper.deps.json
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\bin\Debug\net8.0\FirstScraper.runtimeconfig.json
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\bin\Debug\net8.0\FirstScraper.dll
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\bin\Debug\net8.0\FirstScraper.pdb
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\obj\Debug\net8.0\FirstScraper.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\obj\Debug\net8.0\FirstScraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\obj\Debug\net8.0\FirstScraper.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\obj\Debug\net8.0\FirstScraper.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\obj\Debug\net8.0\FirstScraper.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\obj\Debug\net8.0\FirstScraper.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\obj\Debug\net8.0\FirstScraper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\obj\Debug\net8.0\scopedcss\bundle\FirstScraper.styles.css
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\obj\Debug\net8.0\staticwebassets\msbuild.FirstScraper.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\obj\Debug\net8.0\staticwebassets\msbuild.FirstScraper.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\obj\Debug\net8.0\staticwebassets\msbuild.build.FirstScraper.props
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FirstScraper.props
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FirstScraper.props
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\obj\Debug\net8.0\FirstScr.824369CD.Up2Date
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\obj\Debug\net8.0\FirstScraper.dll
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\obj\Debug\net8.0\refint\FirstScraper.dll
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\obj\Debug\net8.0\FirstScraper.pdb
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\obj\Debug\net8.0\FirstScraper.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\GitHub\bd_demo\FirstScraper\obj\Debug\net8.0\ref\FirstScraper.dll
